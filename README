@@ -1,0 +1,14 @@
+mkdir 01-Basics
+@"
+# DSA Pattern-Wise in C++
+
+My Data Structures and Algorithms practice using C++.
+
+## Learning approach
+- Understand the pattern
+- Start with brute force
+- Optimize the solution
+- Write commented C++ code
+- Perform dry runs
+- Analyze time and space complexity
+"@ | Set-Content README.md
